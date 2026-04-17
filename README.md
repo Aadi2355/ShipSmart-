@@ -14,10 +14,10 @@ A complete end-to-end logistics and supply chain solution built with **React**, 
 | 1  | Project Code                                | [View](https://github.com/Aadi2355/ShipSmart-) |
 | 2  | Project Report                              | [View](https://drive.google.com/file/d/1eICG2IwdrZ3qso85dlIM255ocVnJpyDK/view?usp=sharing) |
 | 3  | Final PPT                                   | [View](https://docs.google.com/presentation/d/16DMm_TMwukmgNhccaN3P7s4GDLpXX_0x/edit?usp=sharing&ouid=113632143759362980258&rtpof=true&sd=true) |
-| 4  |RA2411030030052_Certificate                 | [View](#https://drive.google.com/file/d/1SM2QPmc9de_2QXL9HkUzbaqudeTsNAsj/view?usp=sharing) |
-| 5  | RA2411030030060_Certificate                 | [View](#https://drive.google.com/file/d/1LPZaWi7d9VGFp2IGeoSAG5elGjPjnqc-/view?usp=sharing) |
-| 6  | RA2411030030052_CourseReport                | [View](#) |
-| 7  | RA2411030030060_CourseReport                | [View](#https://docs.google.com/document/d/1b3PVuJ_O-Ir0iqtfDq0SJY9TZAv5W7Nv/edit?usp=sharing&ouid=113632143759362980258&rtpof=true&sd=true) |
+| 4  |RA2411030030052_Certificate                 | [View](https://drive.google.com/file/d/1SM2QPmc9de_2QXL9HkUzbaqudeTsNAsj/view?usp=sharing) |
+| 5  | RA2411030030060_Certificate                 | [View](https://drive.google.com/file/d/1LPZaWi7d9VGFp2IGeoSAG5elGjPjnqc-/view?usp=sharing) |
+| 6  | RA2411030030052_CourseReport                | [View]() |
+| 7  | RA2411030030060_CourseReport                | [View](https://docs.google.com/document/d/1b3PVuJ_O-Ir0iqtfDq0SJY9TZAv5W7Nv/edit?usp=sharing&ouid=113632143759362980258&rtpof=true&sd=true) |
 ## 🚀 Features
 
 | Module | Description |
