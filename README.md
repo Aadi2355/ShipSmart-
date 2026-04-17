@@ -82,9 +82,9 @@ Open http://localhost:5173 for the frontend.
 
 | Role | Email | Password |
 |------|-------|----------|
-| **Admin** | `admin@gmail.com` | `password123` |
-| **Seller** | `seller@gmail.com` | `password123` |
-| **Buyer** | `buyer@gmail.com` | `password123` |
+| **Admin** | `admin@gmail.com` | `password= 1234` |
+| **Seller** | `seller@gmail.com` | `password= 1234` |
+| **Buyer** | `buyer@gmail.com` | `password= 1234` |
 
 ---
 
